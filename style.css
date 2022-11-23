@@ -1,0 +1,49 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+.body{
+    padding: 30px;
+  }
+
+  .skills{
+    padding: 0px;
+  }
+
+h1, h2 {
+    color: #0000FF;
+  }
+
+.tit{
+margin: 5px;
+}
+
+.bold{
+    font: bold;
+}
+
+.flexRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+ .col {
+    width: 50%;
+ }
+
+h3 {
+    font: bold;
+}
+.edu {
+    color: #0000FF
+ }
+
+.bold {
+font-weight: bold;
+} 
+
+.email {
+    font-weight: bold;
+}
